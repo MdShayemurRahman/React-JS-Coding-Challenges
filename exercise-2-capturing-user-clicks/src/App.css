@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+a {
+  margin: 1rem;
+}
+
+.App-Content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
